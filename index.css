@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+.body{
+    font-family: "Merriweather", sans-serif;
+}
+
+.content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+    background: #FFFFFF;
+}
+
+.card{
+    background: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 6px 2px 23px #2630E338;
+    width: 400px
+}
+
+.topCard{
+    padding: 20px;
+    padding-bottom: 0px;
+}
+
+.title{
+    color: #2b3d59
+}
+
+
+.bottomCard{
+    padding: 20px;
+}
+
+.actions{
+    background: none;
+    border: none;
+    color: purple;
+    font-weight: bold;
+}
