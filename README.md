@@ -1,4 +1,4 @@
-## Página desenvolvida com o intuíto de listar alguns dados do pokemon 
+## Página desenvolvida com o intuíto fazer a comunicação via API 
 
 1° - Buscar o nome do Pokemon:<br>
 <img src="Api_01.png"><br>
